@@ -53,5 +53,24 @@ body {
 .text { 
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding-top: 5px;
+  
+}
+
+#tab {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.homePic {
+    background-image: url("./chef.png");
+    background-size: cover;
+    width: 50%;
+    height: 50%;
+    margin: 50px 0px 50px 0px;
+    
 }
 

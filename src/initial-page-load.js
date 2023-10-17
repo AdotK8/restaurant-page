@@ -1,3 +1,6 @@
+// this code has one function - which generates the tite, menu options and 
+//a blank square for pages to  dynannically appear in 
+
 const content = document.getElementById("content")
 
 function initialPageTop () {
