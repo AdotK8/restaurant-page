@@ -1,3 +1,5 @@
+//this function generates the menu page
+
 function menuPageLoad (){
     const tab = document.getElementById("tab");
     const menuTab = document.createElement('div');
